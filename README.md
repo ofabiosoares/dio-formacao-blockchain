@@ -1,8 +1,8 @@
-# Dio-formação-blockchain
+# Dio formação Blockchain:
 
 Projeto com o objetivo de Criando e Utilizando uma carteira de crypto, como parte do Curso DIO, Sobre Fundamentos da Blockchain
 
-
+---
 
 ## 💻 Tecnologias utilizadas no projeto
 VSCode
