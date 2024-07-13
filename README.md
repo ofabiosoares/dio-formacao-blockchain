@@ -5,18 +5,13 @@ Projeto com o objetivo de Criando e Utilizando uma carteira de crypto, como part
 ---
 
 ## 💻 Tecnologias utilizadas no projeto
-VSCode
-Electrum
+- VSCode
+- Node js
+- Electrum
 
-✨ Como foi feito ?
-Roteiro gerado via chatgpt
-Audio gerado pela elevenLabs
-Copilot Designer Para gerar Capas
-Capcut para tratar aúdio e adicionar sons de fundo
-
-
-
-
+## ✨ Como foi feito ?
+Utilizamos o vscode para gerar o codigo em node js para criacao da carteira, endereco, chave e seed para uso.
+acessamos os sites a seguir para teste de uso.
 
 ## 📚 sites utlizados:
 - https://www.blockchain.com/pt/ - para consulta da carteira crypto
