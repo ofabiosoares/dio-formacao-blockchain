@@ -4,7 +4,7 @@ Projeto com o objetivo de Criando e Utilizando uma carteira de crypto, como part
 
 
 
-##💻 Tecnologias utilizadas no projeto
+## 💻 Tecnologias utilizadas no projeto
 VSCode
 Electrum
 
@@ -26,7 +26,7 @@ Capcut para tratar aúdio e adicionar sons de fundo
 
 
 
-##👨‍💻 Expert
+## 👨‍💻 Expert
 Fábio Soares
 
 | GitHub | Linkedin |
