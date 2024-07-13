@@ -24,4 +24,4 @@ acessamos os sites a seguir para teste de uso.
 ## 👨‍💻 Expert
 Fábio Soares
 
-| GitHub | Linkedin |
+| [GitHub](https://github.com/ofabiosoares) |  [Linkedin](https://www.linkedin.com/in/fabio-soares-a71338231/)  | 
