@@ -1,2 +1,2 @@
-# dio-formacao-blockchain
-Curso Sobre Fundamentos da Blockchain
+# dio-formação-blockchain
+Curso DIO, Sobre Fundamentos da Blockchain
