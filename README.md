@@ -2,7 +2,9 @@
 
 Projeto com o objetivo de Criando e Utilizando uma carteira de crypto, como parte do Curso DIO, Sobre Fundamentos da Blockchain
 
-💻 Tecnologias utilizadas no projeto
+
+
+##💻 Tecnologias utilizadas no projeto
 VSCode
 Electrum
 
@@ -12,6 +14,10 @@ Audio gerado pela elevenLabs
 Copilot Designer Para gerar Capas
 Capcut para tratar aúdio e adicionar sons de fundo
 
+
+
+
+
 ## 📚 sites utlizados:
 - https://www.blockchain.com/pt/ - para consulta da carteira crypto
 - https://blockstream.info/testnet/ - para consulta das transacoes 
@@ -19,7 +25,8 @@ Capcut para tratar aúdio e adicionar sons de fundo
 
 
 
-👨‍💻 Expert
+
+##👨‍💻 Expert
 Fábio Soares
 
 | GitHub | Linkedin |
